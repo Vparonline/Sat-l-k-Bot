@@ -3,8 +3,9 @@ Botculuğu bıraktığım için tüm botlarımı satmaya karar verdim çok yüks
 
 Bu [repoda](https://github.com/Vparonline/sectwist.site-web) paylaştığım web panel ile bire bir aynıdır, tek yapmanız gereken hesabı oluştur, sunucu idni gir, tokenini gir kurulumunu site üzerinden tamamla.
 
-# Bot Resimleri
+Not: Botların hepsi v14'dür ve hatasız çalışmaktadır.
 
+# Bot Resimleri
 
 ![1](https://github.com/Vparonline/Sat-l-k-Bot/assets/74346832/7e8ffbcd-182c-491e-be86-8b34761d85f4)
 ![7](https://github.com/Vparonline/Sat-l-k-Bot/assets/74346832/34e8b67e-ebc1-4bcf-9538-8047d2e57311)
